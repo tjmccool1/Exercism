@@ -11,3 +11,5 @@ java/hello-world/src/main/java/.gradle/
 */build.gradle
 */.gradle
 */.gradle/*
+*/test
+*/test/*
