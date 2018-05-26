@@ -6,3 +6,8 @@ build
 build.gradle
 java/hello-world/.gradle/
 java/hello-world/src/main/java/.gradle/
+
+*/build
+*/build.gradle
+*/.gradle
+*/.gradle/*
