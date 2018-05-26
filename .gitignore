@@ -10,6 +10,8 @@ java/hello-world/src/main/java/.gradle/
 */build
 */build.gradle
 */.gradle
-*/.gradle/*
 */test
-*/test/*
+
+# ecmascript
+ecmascript/hello-world/node_modules
+
