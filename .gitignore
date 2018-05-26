@@ -2,10 +2,15 @@
 .DS_Store
 
 # exercism files
+
+# java
 build
 build.gradle
 java/hello-world/.gradle/
 java/hello-world/src/main/java/.gradle/
+
+java/reverse-string/build.gradle
+java/reverse-string/build
 
 */build
 */build.gradle
@@ -14,4 +19,5 @@ java/hello-world/src/main/java/.gradle/
 
 # ecmascript
 ecmascript/hello-world/node_modules
+ecmascript/leap/node_modules
 
